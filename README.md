@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joshocon
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m a math major at the University of Kansas
+- 🌱 I’m am interested in using computation to solve mathematical problems
 - 💞️ I’m looking to collaborate on anything
